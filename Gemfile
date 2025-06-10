@@ -65,3 +65,5 @@ group :test do
 end
 
 gem "anyway_config", "~> 2.7"
+
+gem "sorcery", "~> 0.17.0"
