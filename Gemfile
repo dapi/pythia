@@ -67,3 +67,5 @@ end
 gem "anyway_config", "~> 2.7"
 
 gem "sorcery", "~> 0.17.0"
+
+gem "slim-rails", "~> 3.7"
